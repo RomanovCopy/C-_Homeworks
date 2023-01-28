@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.Clear();
+Console.WriteLine("Я скажу какое число больше...");
+Console.WriteLine("Введите первое число: ");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите второе число: ");
+int b = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите третье число: ");
+int c = Convert.ToInt32(Console.ReadLine());
+int d = a > b ? a : b;
+d = d > c ? d : c;
+Console.WriteLine($"Из трёх чисел {a}, {b} и {c} большим является {d}");
