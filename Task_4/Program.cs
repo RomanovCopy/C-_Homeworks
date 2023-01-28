@@ -1,10 +1,9 @@
 ﻿Console.Clear();
-Console.WriteLine("Я скажу какое число больше...");
-Console.WriteLine("Введите первое число: ");
+Console.Write("Какое число больше...?\nВведите первое число: ");
 int a = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите второе число: ");
+Console.Write("Введите второе число: ");
 int b = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите третье число: ");
+Console.Write("Введите третье число: ");
 int c = Convert.ToInt32(Console.ReadLine());
 int d = a > b ? a : b;
 d = d > c ? d : c;
