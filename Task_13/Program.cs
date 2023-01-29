@@ -2,7 +2,7 @@
 Console.Write("Введите любое целое число: ");
 int n = Convert.ToInt32(Console.ReadLine());
 int n3=n<0?n×-1:n;
-if(n<100)
+if(n3<100)
 {
    Console.WriteLine($"В числе {n} третьей цифры нет");
    return;
