@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS_Code\\C#\\C-_Homeworks\\AdditionalTask_2\\AdditionalTask_2.csproj": {}
+    "D:\\VS_Code\\C#\\C-_Homeworks\\AdditionalTask\\AdditionalTask_2.csproj": {}
   },
   "projects": {
-    "D:\\VS_Code\\C#\\C-_Homeworks\\AdditionalTask_2\\AdditionalTask_2.csproj": {
+    "D:\\VS_Code\\C#\\C-_Homeworks\\AdditionalTask\\AdditionalTask_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS_Code\\C#\\C-_Homeworks\\AdditionalTask_2\\AdditionalTask_2.csproj",
+        "projectUniqueName": "D:\\VS_Code\\C#\\C-_Homeworks\\AdditionalTask\\AdditionalTask_2.csproj",
         "projectName": "AdditionalTask_2",
-        "projectPath": "D:\\VS_Code\\C#\\C-_Homeworks\\AdditionalTask_2\\AdditionalTask_2.csproj",
+        "projectPath": "D:\\VS_Code\\C#\\C-_Homeworks\\AdditionalTask\\AdditionalTask_2.csproj",
         "packagesPath": "C:\\Users\\Rosem\\.nuget\\packages\\",
-        "outputPath": "D:\\VS_Code\\C#\\C-_Homeworks\\AdditionalTask_2\\obj\\",
+        "outputPath": "D:\\VS_Code\\C#\\C-_Homeworks\\AdditionalTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
