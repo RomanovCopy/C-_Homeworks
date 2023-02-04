@@ -14,6 +14,7 @@ for (int i = 0; i < n; i++)
     Console.Write($"Куст {i + 1} :");//для удобства избавляем от куста 0
     array[i] = Convert.ToInt32(Console.ReadLine());
 }
+//обработка и вывод результатов
 for (int i = 0; i < n; i++)
 {
     if (i == 0)//сбор у нулевого куста
