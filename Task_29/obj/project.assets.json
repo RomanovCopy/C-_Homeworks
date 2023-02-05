@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS_Code\\C#\\C-_Homeworks\\AdditionalTask\\AdditionalTask.csproj",
-      "projectName": "AdditionalTask",
-      "projectPath": "D:\\VS_Code\\C#\\C-_Homeworks\\AdditionalTask\\AdditionalTask.csproj",
+      "projectUniqueName": "D:\\VS_Code\\C#\\C-_Homeworks\\Task_29\\Task_29.csproj",
+      "projectName": "Task_29",
+      "projectPath": "D:\\VS_Code\\C#\\C-_Homeworks\\Task_29\\Task_29.csproj",
       "packagesPath": "C:\\Users\\Rosem\\.nuget\\packages\\",
-      "outputPath": "D:\\VS_Code\\C#\\C-_Homeworks\\AdditionalTask\\obj\\",
+      "outputPath": "D:\\VS_Code\\C#\\C-_Homeworks\\Task_29\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
