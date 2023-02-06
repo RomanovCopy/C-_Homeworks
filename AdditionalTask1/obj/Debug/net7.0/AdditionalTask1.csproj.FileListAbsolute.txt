@@ -1,0 +1,15 @@
+D:\VS_Code\C#\C-_Homeworks\AdditionalTask1\bin\Debug\net7.0\AdditionalTask1.exe
+D:\VS_Code\C#\C-_Homeworks\AdditionalTask1\bin\Debug\net7.0\AdditionalTask1.deps.json
+D:\VS_Code\C#\C-_Homeworks\AdditionalTask1\bin\Debug\net7.0\AdditionalTask1.runtimeconfig.json
+D:\VS_Code\C#\C-_Homeworks\AdditionalTask1\bin\Debug\net7.0\AdditionalTask1.dll
+D:\VS_Code\C#\C-_Homeworks\AdditionalTask1\bin\Debug\net7.0\AdditionalTask1.pdb
+D:\VS_Code\C#\C-_Homeworks\AdditionalTask1\obj\Debug\net7.0\AdditionalTask1.csproj.AssemblyReference.cache
+D:\VS_Code\C#\C-_Homeworks\AdditionalTask1\obj\Debug\net7.0\AdditionalTask1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Code\C#\C-_Homeworks\AdditionalTask1\obj\Debug\net7.0\AdditionalTask1.AssemblyInfoInputs.cache
+D:\VS_Code\C#\C-_Homeworks\AdditionalTask1\obj\Debug\net7.0\AdditionalTask1.AssemblyInfo.cs
+D:\VS_Code\C#\C-_Homeworks\AdditionalTask1\obj\Debug\net7.0\AdditionalTask1.csproj.CoreCompileInputs.cache
+D:\VS_Code\C#\C-_Homeworks\AdditionalTask1\obj\Debug\net7.0\AdditionalTask1.dll
+D:\VS_Code\C#\C-_Homeworks\AdditionalTask1\obj\Debug\net7.0\refint\AdditionalTask1.dll
+D:\VS_Code\C#\C-_Homeworks\AdditionalTask1\obj\Debug\net7.0\AdditionalTask1.pdb
+D:\VS_Code\C#\C-_Homeworks\AdditionalTask1\obj\Debug\net7.0\AdditionalTask1.genruntimeconfig.cache
+D:\VS_Code\C#\C-_Homeworks\AdditionalTask1\obj\Debug\net7.0\ref\AdditionalTask1.dll
