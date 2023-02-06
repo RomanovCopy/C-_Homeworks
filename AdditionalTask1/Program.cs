@@ -46,6 +46,5 @@ else
     }
 }
 Console.Write($"Последовательность после сдвига :\n {string.Join(" ; ", array)}\n");
-Console.ReadKey();
 
 
