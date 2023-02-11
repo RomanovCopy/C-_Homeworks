@@ -1,0 +1,15 @@
+D:\VS_Code\C#\C-_Homeworks\Additional_Task\obj\Debug\net7.0\Additional_Task.csproj.AssemblyReference.cache
+D:\VS_Code\C#\C-_Homeworks\Additional_Task\obj\Debug\net7.0\Additional_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Code\C#\C-_Homeworks\Additional_Task\obj\Debug\net7.0\Additional_Task.AssemblyInfoInputs.cache
+D:\VS_Code\C#\C-_Homeworks\Additional_Task\obj\Debug\net7.0\Additional_Task.AssemblyInfo.cs
+D:\VS_Code\C#\C-_Homeworks\Additional_Task\obj\Debug\net7.0\Additional_Task.csproj.CoreCompileInputs.cache
+D:\VS_Code\C#\C-_Homeworks\Additional_Task\bin\Debug\net7.0\Additional_Task.exe
+D:\VS_Code\C#\C-_Homeworks\Additional_Task\bin\Debug\net7.0\Additional_Task.deps.json
+D:\VS_Code\C#\C-_Homeworks\Additional_Task\bin\Debug\net7.0\Additional_Task.runtimeconfig.json
+D:\VS_Code\C#\C-_Homeworks\Additional_Task\bin\Debug\net7.0\Additional_Task.dll
+D:\VS_Code\C#\C-_Homeworks\Additional_Task\bin\Debug\net7.0\Additional_Task.pdb
+D:\VS_Code\C#\C-_Homeworks\Additional_Task\obj\Debug\net7.0\Additional_Task.dll
+D:\VS_Code\C#\C-_Homeworks\Additional_Task\obj\Debug\net7.0\refint\Additional_Task.dll
+D:\VS_Code\C#\C-_Homeworks\Additional_Task\obj\Debug\net7.0\Additional_Task.pdb
+D:\VS_Code\C#\C-_Homeworks\Additional_Task\obj\Debug\net7.0\Additional_Task.genruntimeconfig.cache
+D:\VS_Code\C#\C-_Homeworks\Additional_Task\obj\Debug\net7.0\ref\Additional_Task.dll
