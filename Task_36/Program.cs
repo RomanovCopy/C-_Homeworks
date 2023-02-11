@@ -15,7 +15,9 @@ double SumOfOddItems(double[] array)
         sum += array[i];
     return sum;
 }
-double[] array = CreateArray(20);
+Console.Write("Размер массива? : ");
+int n = Convert.ToInt32(Console.ReadLine());
+double[] array = CreateArray(n);
 Console.WriteLine($"Получен массив : {string.Join(" ; ", array)}");
 Console.Write($"Сумма элементов на нечетных позициях в массиве : {SumOfOddItems(array)}");
 Console.ReadKey();
