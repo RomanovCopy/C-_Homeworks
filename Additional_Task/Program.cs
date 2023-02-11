@@ -14,7 +14,7 @@ int[] Input(int n)
             Console.Write("Очередной день месяца:");
             data = Convert.ToInt32(Console.ReadLine());
             Console.Clear();
-        } while (data < 0 || data > 31);
+        } while (data < 1 || data > 31);
         array[i] = data;
     }
     return array;
