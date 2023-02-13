@@ -37,7 +37,7 @@ void print(char[] array, int count)
     Console.WriteLine($"{count}  {string.Join(' ', array)}");
 }
 
-//копирование и перестановка заданных элементов в массиве
+//копирование и перестановка элементов в массиве
 char[] search(int ch1, int ch2)
 {
     str.CopyTo(res, 0);
