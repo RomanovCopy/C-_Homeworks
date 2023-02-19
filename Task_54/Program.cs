@@ -10,7 +10,7 @@ Console.WriteLine( "Отсортированный построчно масси
 PrintMatrix( array );
 Console.ReadKey();
 
-//генерация случайного массива
+//генерация случайного массива с заданной размерностью
 int[,] CreateArray( int lines, int columns )
 {
     int[,] array = new int[lines, columns];
@@ -23,7 +23,7 @@ int[,] CreateArray( int lines, int columns )
     }
     return array;
 }
-//печать
+//вывод в консоль
 void PrintMatrix( int[,] matrix )
 {
     for (int i = 0; i < matrix.GetLength( 0 ); i++)
