@@ -18,7 +18,7 @@ int[,] CreateArray( int lines, int columns )
     int jk = 0;
     int jkk = 0;
     for (int j = 0; j < columns; j++)
-    {
+    {//заполнение до центральной диагонали
         ik = 0;
         jk = j;
         while (jk >= 0 && ik < lines)
@@ -30,7 +30,7 @@ int[,] CreateArray( int lines, int columns )
         }
     }
     for (int i = 1; i < lines; i++)
-    {
+    {//заполнение после центральной диагонали
         jkk = jk;
         ik = i;
         jk = columns - 1;
