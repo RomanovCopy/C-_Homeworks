@@ -9,33 +9,41 @@ Console.ReadKey();
 
 
 
+
 int[,] CreateArray( int lines, int columns )
 {
-    int value = 0;
-    int dif = 2;
     int[,] array = new int[lines, columns];
-    for (int i = 0; i < array.GetLength( 0 ); i++)
-    { //начальные точки всех строк
-        array[i, 0] = value;
-        value += dif;
-        dif++;
-    }
-    dif = 1;
-    //заполняем строки до конца
-    for (int i = 0; i < lines; i++)
+    int value = 0;
+    int ik = 0;
+    int jk = 0;
+    int jkk = 0;
+    for (int j = 0; j < columns; j++)
     {
-        dif = i + 1;
-        value = array[i, 0];
-        for (int j = 1; j < columns; j++)
+        ik = 0;
+        jk = j;
+        while (jk >= 0 && ik < lines)
         {
-            value += dif;
-            array[i, j] = value;
-            dif++;
+            array[ik, jk] = value;
+            jk = jk - 1;
+            ik = ik + 1;
+            value++;
+        }
+    }
+    for (int i = 1; i < lines; i++)
+    {
+        jkk = jk;
+        ik = i;
+        jk = columns - 1;
+        while (ik < lines && jk > jkk)
+        {
+            array[ik, jk] = value;
+            jk = jk - 1;
+            ik = ik + 1;
+            value++;
         }
     }
     return array;
 }
-
 
 void PrintArray( int[,] array )
 {
