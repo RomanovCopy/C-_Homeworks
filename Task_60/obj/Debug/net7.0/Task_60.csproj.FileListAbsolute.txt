@@ -1,0 +1,15 @@
+D:\VS_Code\C#\C-_Homeworks\Task_60\bin\Debug\net7.0\Task_60.exe
+D:\VS_Code\C#\C-_Homeworks\Task_60\bin\Debug\net7.0\Task_60.deps.json
+D:\VS_Code\C#\C-_Homeworks\Task_60\bin\Debug\net7.0\Task_60.runtimeconfig.json
+D:\VS_Code\C#\C-_Homeworks\Task_60\bin\Debug\net7.0\Task_60.dll
+D:\VS_Code\C#\C-_Homeworks\Task_60\bin\Debug\net7.0\Task_60.pdb
+D:\VS_Code\C#\C-_Homeworks\Task_60\obj\Debug\net7.0\Task_60.csproj.AssemblyReference.cache
+D:\VS_Code\C#\C-_Homeworks\Task_60\obj\Debug\net7.0\Task_60.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Code\C#\C-_Homeworks\Task_60\obj\Debug\net7.0\Task_60.AssemblyInfoInputs.cache
+D:\VS_Code\C#\C-_Homeworks\Task_60\obj\Debug\net7.0\Task_60.AssemblyInfo.cs
+D:\VS_Code\C#\C-_Homeworks\Task_60\obj\Debug\net7.0\Task_60.csproj.CoreCompileInputs.cache
+D:\VS_Code\C#\C-_Homeworks\Task_60\obj\Debug\net7.0\Task_60.dll
+D:\VS_Code\C#\C-_Homeworks\Task_60\obj\Debug\net7.0\refint\Task_60.dll
+D:\VS_Code\C#\C-_Homeworks\Task_60\obj\Debug\net7.0\Task_60.pdb
+D:\VS_Code\C#\C-_Homeworks\Task_60\obj\Debug\net7.0\Task_60.genruntimeconfig.cache
+D:\VS_Code\C#\C-_Homeworks\Task_60\obj\Debug\net7.0\ref\Task_60.dll
