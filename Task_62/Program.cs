@@ -13,15 +13,15 @@ Console.ReadKey();
 //основной блок
 int[,] HelicalFilling( int[,] array )
 {
-    int travel = 90;
+    int travel = 90;//направление перемещения(0 - вверх, 90 - вправо, 180 - вниз, 270 - влево)
     SetValue( );
     while (travel >= 0)
     {
         if (travel == 90)
-        {//движение направо
+        {//движение вправо
             while (CanRight())
             {
-                    point[1] = point[1] + 1;
+                point[1] = point[1] + 1;
                 SetValue( );
             }
             travel = 180;
