@@ -13,5 +13,5 @@ int summ = array[0] == array[1] ? 0 : array[0] > array[1] ? Summ( array[1] + 1, 
 int summ1 = array[0] == array[1] ? array[0] + array[1] : array[0] > array[1] ? Summ( array[1], array[0] ) : Summ( array[0], array[1] );
 Console.WriteLine ($"Сумма чисел в промежутке от {array[0]} до {array[1]} равна: " );
 Console.WriteLine( $"Без учета первого и последнего числа - {summ}" );
-Console.WriteLine( $"С учетом первого и последнего чисел - {summ1}" );
+Console.WriteLine( $"С учетом первого и последнего числла - {summ1}" );
 Console.ReadKey();
